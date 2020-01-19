@@ -20,7 +20,7 @@ Applications Used:
 
 
 #### 1. EXAMPLE:
-`movie-this` *command for movie* "Parasite"
+`movie-this` *command for movie* **"Parasite"**
 
 
 ![Image of movie-this command](images/moviethis1.png)
@@ -28,7 +28,7 @@ Applications Used:
 
 
 #### 2. EXAMPLE:
-`spotify-this-song` *command for song* "Idol"
+`spotify-this-song` *command for song* **"Idol"**
 
 
 ![Image of spotify-this-song command](images/spotifythis1.png)
@@ -36,7 +36,7 @@ Applications Used:
 
 
 #### 3. EXAMPLE:
-`concert-this` *command for artist's concert* "Halsey"
+`concert-this` *command for artist's concert* **"Halsey"**
 
 
 ![Image of concert-this command](images/concertthis1.png)
