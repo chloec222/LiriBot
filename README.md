@@ -23,7 +23,7 @@ Applications Used:
 `movie-this` command for movie "Parasite"
 
 
-![Image of movie-this command](images/moviethis.png)
+![Image of movie-this command](images/moviethis1.png)
 
 
 
@@ -31,7 +31,7 @@ Applications Used:
 `spotify-this-song` command for song "Idol"
 
 
-![Image of spotify-this-song command](images/spotifythis.png)
+![Image of spotify-this-song command](images/spotifythis1.png)
 
 
 
@@ -39,14 +39,14 @@ Applications Used:
 `concert-this` command for artist of concert "Halsey"
 
 
-![Image of concert-this command](images/concertthis.png)
+![Image of concert-this command](images/concertthis1.png)
 
 
 #### 4. EXAMPLE:
 `do-what-it-says` command for default song & message
 
 
-![Image of do-what-it-says command](images/random11.png)
+![Image of do-what-it-says command](images/random111.png)
 
 
 
