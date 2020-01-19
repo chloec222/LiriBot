@@ -14,3 +14,4 @@ Applications Used:
 
 LiriBot will take in a specific command and render results based on the specified command.
 
+![Image of movie-this command](moviecmd.png)
