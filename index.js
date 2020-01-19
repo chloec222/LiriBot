@@ -138,6 +138,7 @@ function getRandom(){
             console.log(data);
             var randomData = data.split(" .");
             liriRun(randomData[0], randomData[1]);
+            console.log("\r\n");
             console.log("========== Search completed ==========");
         }
     });
