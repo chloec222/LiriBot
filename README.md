@@ -20,9 +20,16 @@ Applications Used:
 
 
 EXAMPLE:
-`movie-this` command for movie" Frozen"
+`movie-this` command for movi e"Frozen"
 
 
 ![Image of movie-this command](images/moviecmd.png)
 
+
+
+EXAMPLE:
+`spotify-this-song` command for song "Thank you next"
+
+
+![Image of movie-this command](images/spotify.png)
 - [x] bugs/errors still present
