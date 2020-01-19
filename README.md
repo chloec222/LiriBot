@@ -18,6 +18,8 @@ Applications Used:
 - concert-this
 - do-anything-you-want
 
+
+`movie-this` *example*
 ![Image of movie-this command](images/moviecmd.png)
 
 - [x] bugs/errors still present
