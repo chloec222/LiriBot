@@ -1,5 +1,5 @@
 
-# LIRI Bot
+# LIRIBot
 ### Overview
 LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
 
@@ -7,10 +7,10 @@ LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for mov
 
 
 Applications Used:
-1. Node-Spotify-API
-2. Axios
-3. Moment
-4. DotEnv
+- [ ] Node-Spotify-API
+- [ ] Axios
+- [ ] Moment
+- [ ] DotEnv
 
 **LiriBot will take in a specific command and render results based on the specified command.**
 - spotify-this-song
