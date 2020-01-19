@@ -20,7 +20,7 @@ Applications Used:
 
 
 EXAMPLE:
-`movie-this` command
+`movie-this` command for movie" Frozen"
 
 
 ![Image of movie-this command](images/moviecmd.png)
