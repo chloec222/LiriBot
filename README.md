@@ -12,7 +12,7 @@ Applications Used:
 3. Moment
 4. DotEnv
 
-** LiriBot will take in a specific command and render results based on the specified command. **
+**LiriBot will take in a specific command and render results based on the specified command.**
 - spotify-this-song
 - movie-this
 - concert-this
