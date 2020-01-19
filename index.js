@@ -99,7 +99,7 @@ function getOMDB(movie){
             console.log("Year released: " + response.data.Year + "\r\n");
             console.log("IMDB Rating: " + response.data.imdbRating + "\r\n");
             console.log("Rotten Tomatoes Rating: " + response.data.Ratings[1].Value + "\r\n");
-            console.log("Conutry produced: " + response.data.Country + "\r\n");
+            console.log("Country produced: " + response.data.Country + "\r\n");
             console.log("Language: " + response.data.Language + "\r\n");
             console.log("Plot: " + response.data.Plot + "\r\n");
             console.log("Actors: " + response.data.Actors + "\r\n");
