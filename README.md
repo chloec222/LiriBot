@@ -27,13 +27,19 @@ EXAMPLE:
 
 
 
-
-
 EXAMPLE:
 `spotify-this-song` command for song "Thank you next"
 
 
 ![Image of movie-this command](images/spotify1.png)
+
+
+
+EXAMPLE:
+`do-what-it-says` command for default song & message
+
+
+![Image of movie-this command](images/random.png)
 
 
 - [x] bugs/errors still present
