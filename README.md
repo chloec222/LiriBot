@@ -49,4 +49,4 @@ Applications Used:
 ![Image of do-what-it-says command](images/random1.png)
 
 
-- [x] bugs/errors still present for `concert-this`
+[x] completed
