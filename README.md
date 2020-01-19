@@ -27,6 +27,8 @@ EXAMPLE:
 
 
 
+
+
 EXAMPLE:
 `spotify-this-song` command for song "Thank you next"
 
