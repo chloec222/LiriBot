@@ -39,7 +39,7 @@ Applications Used:
 `do-what-it-says` command for default song & message
 
 
-![Image of movie-this command](images/random.png)
+![Image of movie-this command](images/random1.png)
 
 
 - [x] bugs/errors still present for `concert-this`
