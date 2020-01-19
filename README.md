@@ -19,7 +19,9 @@ Applications Used:
 - do-anything-you-want
 
 
-`movie-this` *example*
+`movie-this` command
+
+
 ![Image of movie-this command](images/moviecmd.png)
 
 - [x] bugs/errors still present
