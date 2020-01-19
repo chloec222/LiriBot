@@ -7,10 +7,10 @@ LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for mov
 
 
 Applications Used:
-- [ ] Node-Spotify-API
-- [ ] Axios
-- [ ] Moment
-- [ ] DotEnv
+- [x] Node-Spotify-API
+- [x] Axios
+- [x] Moment
+- [x] DotEnv
 
 **LiriBot will take in a specific command and render results based on the specified command.**
 - spotify-this-song
