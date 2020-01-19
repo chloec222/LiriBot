@@ -51,7 +51,9 @@ function getSpotify(songName){
         if (err) {
             return console.log('Error: ' + err);
         }
+        console.log("\r\n");
         console.log("========== Searching for... ==========");
+        console.log("\r\n");
         console.log("Artist: " + data.tracks.items[0].album.artists[0].name + "\r\n");
         console.log("Song: " + data.tracks.items[0].name + "\r\n");
         console.log("Song Preview Link: " + data.tracks.items[0].href + "\r\n");
@@ -75,7 +77,9 @@ function getBandsInTown(artist){
 
     axios.get(bandQueryURL).then(
         function (response){
+            console.log("\r\n");
             console.log("========== Searching for... ==========");
+            console.log("\r\n");
             console.log("Venue: " + response.data[0].venue.name + "\r\n");
             console.log("Venue Location: " + response.data[0].venue.city + "\r\n");
             console.log("Event Date: " + moment(response.data[0].venue.datetime).format("MM-DD-YYYY") + "\r\n");
@@ -101,7 +105,9 @@ function getOMDB(movie){
     var movieQueryURL = "https://www.omdbapi.com/?t=" + movie + "&y=&plot=short&apikey=trilogy";
     axios.request(movieQueryURL).then(
         function(response){
+            console.log("\r\n");
             console.log("========== Searching for... ==========");
+            console.log("\r\n");
             console.log("Title: " + response.data.Title + "\r\n");
             console.log("Year released: " + response.data.Year + "\r\n");
             console.log("IMDB Rating: " + response.data.imdbRating + "\r\n");
@@ -126,7 +132,9 @@ function getRandom(){
         if(error){
             return console.log(error);
         } else {
+            console.log("\r\n");
             console.log("========== Searching for... ==========");
+            console.log("\r\n");
             console.log(data);
             var randomData = data.split(" .");
             liriRun(randomData[0], randomData[1]);
