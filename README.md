@@ -51,5 +51,5 @@ Applications Used:
 
 
 ###### HEY LIRI:
-> "What makes us human, I think, is an ability to ask questions, a consequence of our sophisticated spoken language."
-> - Jane Goodall
+> "Human language is the new UI layer, bots are like new applications, and digital assistants are meta apps. Intelligence is infused into all of your interactions."
+> - Satya Nadella
