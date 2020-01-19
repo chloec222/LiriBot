@@ -16,7 +16,7 @@ Applications Used:
 - spotify-this-song
 - movie-this
 - concert-this
-- do-anything-you-want
+- do-what-it-says
 
 
 EXAMPLE:
