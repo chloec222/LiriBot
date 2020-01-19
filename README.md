@@ -31,15 +31,22 @@ Applications Used:
 `spotify-this-song` command for song "Thank you next"
 
 
-![Image of movie-this command](images/spotify1.png)
+![Image of spotify-this-song command](images/spotify1.png)
 
 
 
 #### 3. EXAMPLE:
+`concert-this` command for artist of concert "Halsey"
+
+
+![Image of concert-this command](images/concert.png)
+
+
+#### 4. EXAMPLE:
 `do-what-it-says` command for default song & message
 
 
-![Image of movie-this command](images/random1.png)
+![Image of do-what-it-says command](images/random1.png)
 
 
 - [x] bugs/errors still present for `concert-this`
