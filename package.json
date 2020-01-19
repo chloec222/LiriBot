@@ -1,0 +1,26 @@
+{
+  "name": "liribot",
+  "version": "1.0.0",
+  "description": "CLI Application",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.1",
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security",
+    "moment": "^2.24.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Chloe Choi",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chloec222/LiriBot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chloec222/LiriBot/issues"
+  },
+  "homepage": "https://github.com/chloec222/LiriBot#readme"
+}
