@@ -23,7 +23,7 @@ Applications Used:
 `movie-this` command for movie "Frozen"
 
 
-![Image of movie-this command](images/moviecmd.png)
+![Image of movie-this command](images/movie1.png)
 
 
 
