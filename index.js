@@ -79,6 +79,9 @@ function getBandsInTown(artist){
             console.log("Name of the venue: " + response.data[0].venue.name + "\r\n");
             console.log("Venue Location: " + response.data[0].venue.city + "\r\n");
             console.log("Date of event: " + moment(response.data[0].datetime).format("MM-DD-YYYY") + "\r\n");
+        })
+    .catch(function (error) {
+            console.log(error);
 
             var logConcert = "======Begin Concert Log Entry======" +"\nName of the musician: " + artist + "\nName of the venue: " + response.data[0].venue.name;
 
