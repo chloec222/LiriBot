@@ -31,5 +31,7 @@ EXAMPLE:
 `spotify-this-song` command for song "Thank you next"
 
 
-![Image of movie-this command](images/spotify.png)
+![Image of movie-this command](images/spotify1.png)
+
+
 - [x] bugs/errors still present
