@@ -19,7 +19,7 @@ Applications Used:
 - do-what-it-says
 
 
-EXAMPLE:
+1. EXAMPLE:
 `movie-this` command for movi e"Frozen"
 
 
@@ -27,7 +27,7 @@ EXAMPLE:
 
 
 
-EXAMPLE:
+2. EXAMPLE:
 `spotify-this-song` command for song "Thank you next"
 
 
@@ -35,11 +35,11 @@ EXAMPLE:
 
 
 
-EXAMPLE:
+3. EXAMPLE:
 `do-what-it-says` command for default song & message
 
 
 ![Image of movie-this command](images/random.png)
 
 
-- [x] bugs/errors still present
+- [x] bugs/errors still present for `concert-this`
