@@ -70,24 +70,25 @@ function getSpotify(songName){
 
 // function to search Bands in Town API
 function getBandsInTown(artist){
-    var artist = userSearch;
-    var bandQueryURL = "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp";
+    
+    var bandQueryURL = "https://rest.bandsintown.com/artists/" + userSearch + "/events?app_id=codingbootcamp";
 
     axios.get(bandQueryURL).then(
         function (response){
             console.log("=====================");
             console.log("Name of the venue: " + response.data[0].venue.name + "\r\n");
             console.log("Venue Location: " + response.data[0].venue.city + "\r\n");
-            console.log("Date of event: " + moment(response.data[0].datetime).format("MM-DD-YYYY") + "\r\n");
+            console.log("Date of event: " + moment(response.data[0].venue.datetime).format("MM-DD-YYYY") + "\r\n");
         })
-    .catch(function (error) {
+        .catch(function (error) {
             console.log(error);
-
-            var logConcert = "======Begin Concert Log Entry======" +"\nName of the musician: " + artist + "\nName of the venue: " + response.data[0].venue.name;
+        
+            var logConcert = "======Begin Concert Log Entry======" +"\nName of the musician: " + userSearch + "\nName of the venue: " + response.data[0].venue.name;
 
             fs.appendFile("log.txt", logConcert, function(err){
                 if(err) throw err;
             });
+            return response.json();
         });
 }
 
